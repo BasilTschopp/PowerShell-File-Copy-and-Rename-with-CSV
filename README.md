@@ -1,0 +1,1 @@
+This script automates the process of copying files from source paths specified in a CSV file to a target folder, while allowing renaming of files and handling potential issues such as invalid characters and maximum filename length restrictions
